@@ -47,57 +47,7 @@ de manutenção, com entrega oficial em **28 de março de 2025**.
 **Equipe em campo:** 4 pessoas
 **Investimento total:** R$ 53.489,30
 
----
 
-## 📁 Estrutura do Repositório
-
-infra-otica-visaoclara-2025/
-│
-├── 📄 README.md
-│
-├── 📂 docs/
-│   ├── estudo-de-caso-completo.md
-│   ├── inventario-ativos.md
-│   ├── credenciais-referencia.md
-│   └── cronograma-execucao.md
-│
-├── 📂 rede/
-│   ├── topologia-logica.md
-│   ├── topologia-fisica.md
-│   ├── endereçamento-ip.md
-│   └── vlans.md
-│
-├── 📂 configuracoes/
-│   ├── pfsense/
-│   │   ├── regras-firewall.md
-│   │   ├── dhcp-escopos.md
-│   │   └── vpn-openvpn.md
-│   ├── servidor/
-│   │   ├── ubuntu-server-setup.md
-│   │   ├── squid-proxy.md
-│   │   ├── raid-backup.md
-│   │   └── dns-bind9.md
-│   └── switch/
-│       └── tplink-sg2218-vlans.md
-│
-├── 📂 hardware/
-│   ├── especificacoes-computadores.md
-│   ├── rack-organizacao.md
-│   └── cabeamento.md
-│
-├── 📂 financeiro/
-│   ├── cotacoes.md
-│   └── custos-detalhados.md
-│
-├── 📂 manutencao/
-│   ├── rotina-diaria.md
-│   ├── rotina-semanal.md
-│   ├── rotina-mensal.md
-│   └── plano-incidentes.md
-│
-└── 📂 treinamento/
-    ├── manual-usuario.md
-    └── guia-rapido.md
 ---
 
 ## Escopo da Implantação
