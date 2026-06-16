@@ -1,6 +1,6 @@
 # CASE-IMPLANTACAO-DE-INFRAESTRUTURA-DE-TI
 
-# Projeto de Infraestrutura de TI — Ótica Visão Clara
+# Projeto de Infraestrutura de TI — Ótica Visão Clara [Fictício]
 ### São Carlos, SP — Março de 2025 [Fictício]
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
