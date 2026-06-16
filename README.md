@@ -127,7 +127,7 @@ de manutenção, com entrega oficial em **28 de março de 2025**.
 | **Total** | **R$ 53.489,30** |
 
 > 💡 Para detalhamento completo das cotações e processo de compra,
-> consulte [`/financeiro/cotacoes.md`](./financeiro/cotacoes.md)
+> consulte o arquivo de cotações.
 
 ---
 
