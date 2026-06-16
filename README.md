@@ -50,54 +50,54 @@ de manutenção, com entrega oficial em **28 de março de 2025**.
 ---
 
 ## 📁 Estrutura do Repositório
+
 infra-otica-visaoclara-2025/
 │
-├── 📄 README.md ← Você está aqui
+├── 📄 README.md
 │
 ├── 📂 docs/
-│ ├── estudo-de-caso-completo.md ← Documentação técnica principal
-│ ├── inventario-ativos.md ← Inventário de todos os equipamentos
-│ ├── credenciais-referencia.md ← Estrutura de credenciais (sem senhas)
-│ └── cronograma-execucao.md ← Timeline do projeto
+│   ├── estudo-de-caso-completo.md
+│   ├── inventario-ativos.md
+│   ├── credenciais-referencia.md
+│   └── cronograma-execucao.md
 │
 ├── 📂 rede/
-│ ├── topologia-logica.md ← Diagrama lógico da rede
-│ ├── topologia-fisica.md ← Diagrama físico / planta
-│ ├── endereçamento-ip.md ← Tabela de IPs e sub-redes
-│ └── vlans.md ← Configuração das VLANs
+│   ├── topologia-logica.md
+│   ├── topologia-fisica.md
+│   ├── endereçamento-ip.md
+│   └── vlans.md
 │
 ├── 📂 configuracoes/
-│ ├── pfsense/
-│ │ ├── regras-firewall.md ← Todas as regras configuradas
-│ │ ├── dhcp-escopos.md ← Configuração dos escopos DHCP
-│ │ └── vpn-openvpn.md ← Configuração da VPN
-│ ├── servidor/
-│ │ ├── ubuntu-server-setup.md ← Instalação e configuração base
-│ │ ├── squid-proxy.md ← Configuração do proxy
-│ │ ├── raid-backup.md ← RAID 1 e estratégia de backup
-│ │ └── dns-bind9.md ← Configuração do DNS interno
-│ └── switch/
-│ └── tplink-sg2218-vlans.md ← Configuração do switch gerenciável
+│   ├── pfsense/
+│   │   ├── regras-firewall.md
+│   │   ├── dhcp-escopos.md
+│   │   └── vpn-openvpn.md
+│   ├── servidor/
+│   │   ├── ubuntu-server-setup.md
+│   │   ├── squid-proxy.md
+│   │   ├── raid-backup.md
+│   │   └── dns-bind9.md
+│   └── switch/
+│       └── tplink-sg2218-vlans.md
 │
 ├── 📂 hardware/
-│ ├── especificacoes-computadores.md ← Perfis A, B e C detalhados
-│ ├── rack-organizacao.md ← Layout e organização do rack
-│ └── cabeamento.md ← Metragens, certificação e padrões
+│   ├── especificacoes-computadores.md
+│   ├── rack-organizacao.md
+│   └── cabeamento.md
 │
 ├── 📂 financeiro/
-│ ├── cotacoes.md ← Processo de cotação realizado
-│ └── custos-detalhados.md ← Planilha de custos por categoria
+│   ├── cotacoes.md
+│   └── custos-detalhados.md
 │
 ├── 📂 manutencao/
-│ ├── rotina-diaria.md ← Tarefas automáticas
-│ ├── rotina-semanal.md ← Checklist semanal
-│ ├── rotina-mensal.md ← Procedimentos mensais
-│ └── plano-incidentes.md ← SLA e resposta a incidentes
+│   ├── rotina-diaria.md
+│   ├── rotina-semanal.md
+│   ├── rotina-mensal.md
+│   └── plano-incidentes.md
 │
 └── 📂 treinamento/
-├── manual-usuario.md ← Manual simplificado para usuários
-└── guia-rapido.md ← Guia de problemas comuns
-
+    ├── manual-usuario.md
+    └── guia-rapido.md
 ---
 
 ## Escopo da Implantação
